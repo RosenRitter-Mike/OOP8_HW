@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed8eff2a-35c0-4113-b6e4-c5f097da732d" name="Changes" comment="OOP8_HW_ex1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed8eff2a-35c0-4113-b6e4-c5f097da732d" name="Changes" comment="OOP8_HW_ex2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,11 +80,20 @@
       <option name="project" value="LOCAL" />
       <updated>1739026548680</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="OOP8_HW_ex2">
+      <option name="closed" value="true" />
+      <created>1739030135649</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739030135649</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="OOP8_HW_ex1" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP8_HW_ex1" />
+    <MESSAGE value="OOP8_HW_ex2" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP8_HW_ex2" />
   </component>
 </project>
