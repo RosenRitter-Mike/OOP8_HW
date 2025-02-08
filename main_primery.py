@@ -20,9 +20,6 @@ num_list: list = [12, 17, 23, 100, 121, 169]
 for num in num_list:
     head.handle(num)
 print()
-# num_list: list = [12, 15, 25, 49, 10]
-# for num in num_list:
-#     head.handle(num)
-num_list: list = [12, 15, 25, 49, 10]
+
 for num in range(30,60):
     head.handle(num)
